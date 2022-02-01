@@ -1,3 +1,6 @@
+#This is live deployed version of our notes app 
+https://pedantic-shannon-a03f94.netlify.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
